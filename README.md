@@ -15,6 +15,9 @@ Las Vegas Royale includes twelve expansion tiles, and to play a more involved ga
 
 The more crazy rules is under developing!!!!
 
+More Info from: \
+https://boardgamegeek.com/boardgame/271319/las-vegas-royale
+
 #### ZH-translation version 中文介绍说明
 Las Vegas 是一款简单易学的掷骰子游戏，其中包含六个纸板赌场垫，一个用于普通六面骰子的每一面。 对于基本游戏中的每个垫子，玩家都会抽钱卡，直到显示至少 50,000 美元，但最终金额可能会更多，从而使赌场金额更加诱人。
 
@@ -23,3 +26,6 @@ Las Vegas 是一款简单易学的掷骰子游戏，其中包含六个纸板赌�
 Las Vegas Royale 包括 12 个扩展板块，要玩更复杂的游戏，您可以在每个赌场随机放置一个扩展板块。 这些方块上有特殊的能力，通过在上面放置骰子，玩家可以激活这些能力。 扩展组件还包括一个比普通玩家更大的骰子，算作两个骰子。
 
 更多玩法正在开发，敬请期待
+
+更多信息，请关注 \
+https://boardgamegeek.com/boardgame/271319/las-vegas-royale
