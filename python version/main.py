@@ -1,4 +1,5 @@
 import argparse
+import cv2
 
 from utils.NameMatch import player_names, board_names, name_player_index
 from utils.Board import Board
@@ -83,6 +84,9 @@ def main():
             show_all_rewards(name_players)
             round += 1
             print('----------------------next round---------------------------\n')
+            img = cv2.imread('./img/current_result.jpg')
+            cv2.imshow('Current Result', img)
+            cv2.waitKey(0)
     else:
         print(
             f'Excessive players! Try to reduce player number to {len(player_names)}!\n')
